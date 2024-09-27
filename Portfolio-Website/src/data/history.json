@@ -1,29 +1,35 @@
 [
   {
-    "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
+    "role": "Unix & Windows Specialist",
+    "organisation": "Indiana Tech Cyber Warriors",
+    "startDate": "Sept, 2024",
     "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-    "imageSrc": "history/google.png"
+    "experiences": ["Skilled in configuring IP addresses and enabling ICMP on Linux and Windows, installing Apache with custom settings, and setting up SSH users and OwnCloud."],
+    "imageSrc": "history/cyber.jpeg"
   },
   {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
+    "role": "Technician",
+    "organisation": "Indiana Institute of Technology",
+    "startDate": "May, 2023",
+    "endDate": "Present",
+    "experiences": ["Identify and resolve technical issues, ensuring optimal performance and minimal disruptions.",
+                    "Improve communication by actively contributing to team discussions and fostering a collaborative environment.",
+                    "Partner with team members to align on objectives, driving project success and achieving shared goals."
+],
+    "imageSrc": "history/IT.jpeg"
+  },
+  {
+    "role": "Administrative Assistant",
+    "organisation": "MEPLS Consultancy",
+    "startDate": "May, 2022",
     "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
-    "imageSrc": "history/microsoft.png"
-  },
-  {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
-    ],
-    "imageSrc": "history/netflix.png"
+      "Organized and hosted office events and meetings to facilitate smooth operations and enhance team engagement.",
+      "Efficiently managed time by prioritizing tasks and meeting deadlines to support team success.",
+      "Simplified tasks into manageable steps and executed them to achieve work success." 
+
+      
+    ]
+    
   }
 ]

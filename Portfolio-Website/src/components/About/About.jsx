@@ -12,30 +12,30 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
+              <h3>Full-Stack Developer
+              </h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+              I develop complete web applications, handling both front-end interfaces and back-end systems to ensure smooth user experiences.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
+              <h3>Cybersecurity Enthusiast</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+              With experience as a Windows and Unix specialist, I focus on building secure systems and protecting applications from vulnerabilities.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>
+              Problem Solver
+             </h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+              I enjoy tackling complex challenges and finding efficient solutions, whether it's through coding, debugging, or optimizing workflows.
               </p>
             </div>
           </li>

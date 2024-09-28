@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Movie Recommender",
+    "imageSrc": "projects/OIP.jpeg",
+    "description": "This project uses an API to provide up-to-date movie recommendations.",
+    "skills": ["JavaScript", "HTML", "CSS"],
+    "demo": "https://abraham-dagnew.github.io/Movie-Recommender/main.html",
+    "source": "https://github.com/Abraham-Dagnew/Movie-Recommender"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
+    "title": "Weather App",
+    "imageSrc": "projects/th.jpeg",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "skills": ["Python", "Python libraries"],
+    "demo": "",
+    "source": "https://github.com/Abraham-Dagnew/Weather-app"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Trello Clone",
+    "imageSrc": "projects/Trello.jpeg",
+    "description": "This is a group project made to learn the latest languages by building an app.",
+    "skills": [".Net", "Blazor", "C#", "HTML/CSS"],
+    "demo": "http://localhost:5182/",
+    "source": "https://github.com/Tech-SE-PROJ/trello-clone"
   }
 ]
